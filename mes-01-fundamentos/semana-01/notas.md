@@ -35,3 +35,24 @@ puts "hola, #{nombre}!"
 realmete es mas parecido a python de lo qu eparece, veremos que cosas
 podemos desarrollar abase de estos y si hay integraciones con otros sistemas 
 que me ayuden a tener mas en claro el parametro de los lenguajes de programacion
+
+''' ruby 
+actividad 3 '''
+
+
+## Este ejercicio practica tres cosas nuevas:
+
+Recibir múltiples datos del usuario con gets
+Hacer una operación matemática con una variable 2026 - edad
+Mostrar todo junto con interpolación #{}
+
+
+
+''' ruby
+ACtividad 4 y 5
+'''
+
+## El ejercicio 4 practica conversión entre tipos
+— texto a número, entero a decimal, y comparaciones que devuelven true o false.
+El ejercicio 5 introduce tu primer if/elsif/else — toma decisiones según los meses
+que llevas programando y genera un perfil formateado.
