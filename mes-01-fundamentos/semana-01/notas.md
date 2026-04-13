@@ -63,3 +63,4 @@ hola, prueba para commit
 
 ## Aprendizaje de la integradora
 — Puedo usar Time.now.year para citar o preguntar el año directamente
+- es importante que tenga bien espaciado el codigo sobre todo despues de los puts

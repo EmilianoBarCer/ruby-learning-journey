@@ -16,7 +16,7 @@
 #
 # Muestra una tarjeta formateada en consola con todos los datos, el nivel calculado y un mensaje motivacional según el nivel
 # Bonus opcional — intenta que la tarjeta tenga bordes con ╔ ═ ╗ ║ ╚ ╝ para que se vea profesional
-#
+#.
 #
 
 puts "=== GENERADOR DE TARJETA DE PRESENTACION ==="
