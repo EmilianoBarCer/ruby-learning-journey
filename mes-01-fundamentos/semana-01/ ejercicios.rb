@@ -29,7 +29,7 @@ anio_nacimiento = 2026 - edad
 
 puts "---------------------------"
 puts "Hola #{nombre}!"
-puts "Nacistes aproximandamente en #{anio_nacimiento}"
+puts "Naciste aproximandamente en #{anio_nacimiento}"
 puts "Un saludo desde #{ciudad} para el mundo!"
 puts "---------------------------"
 
@@ -57,18 +57,19 @@ nombre= gets.chomp
 puts "Edad:"
 edad= gets.chomp.to_i
 puts"lenguaje favorito:"
-El ejercicio 4 practica conversión entre tipos — texto a número, entero a decimal, y comparaciones que devuelven true o false.
+lenguaje=gets.chomp
+#El ejercicio 4 practica conversión entre tipos — texto a número, entero a decimal, y comparaciones que devuelven true o false.
 
-  El ejercicio 5 introduce tu primer if/elsif/else — toma decisiones según los meses que llevas programando y genera un perfil formateado.lenguaje= gets.chomp
+#El ejercicio 5 introduce tu primer if/elsif/else — toma decisiones según los meses que llevas programando y genera un perfil formateado.lenguaje= gets.chomp
 puts"Cuantos meses llevas programando?"
 meses = gets.chomp.to_i
 
 nivel =""
 if meses<1
   nivel= "principiante absoluto"
-  elseif meses<6
+  elsif meses<6
   nivel="aprendiz"
-  elseif meses<12
+  elsif meses<12
   nivel="intermedio"
 else
   nivel="experimentado"

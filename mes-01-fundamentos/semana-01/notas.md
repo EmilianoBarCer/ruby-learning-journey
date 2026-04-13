@@ -23,7 +23,8 @@ es_programador = true
 
 ##put y gets
 - 'puts' > imprime texto en pantalla
-- 'gets' > recibe texto del usuario
+- 'gets' > recibe texto del usuario, en la terminacion".chomp"
+- recibe unicamente tecto, pero en la terminacion #
 
 ''' ruby
 puts "¿cual es tu nombre?"
@@ -57,3 +58,8 @@ ACtividad 4 y 5
 El ejercicio 5 introduce tu primer if/elsif/else — toma decisiones según los meses
 que llevas programando y genera un perfil formateado.
 hola, prueba para commit
+
+
+
+## Aprendizaje de la integradora
+— Puedo usar Time.now.year para citar o preguntar el año directamente
